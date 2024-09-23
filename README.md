@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm TechRomeo
+# Hi there! 👋 I'm Romeo
 
 ## 🚀 About Me
 - 🔭 I’m currently working on social-app, next.js blog app
