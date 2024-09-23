@@ -1,19 +1,18 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm [TechRomeo]
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [your current project]
-- 🌱 I’m currently learning [something you're learning]
-- 👯 I’m looking to collaborate on [projects you want to collaborate on]
-- 💬 Ask me about [your areas of expertise]
-- 📫 How to reach me: [your email or LinkedIn profile]
-- ⚡ Fun fact: [a fun fact about you]
+- 🔭 I’m currently working on [social-app, next.js blog app]
+- 🌱 I’m currently learning Next.js
+- 💬 Ask me about [JavaScript, TypeScript, Node, Express, React, React Native, Solid.js, MongoDB]
+- 📫 How to reach me: [romeonatchkebia@gmail.com]
+- ⚡ Fun fact: [I have a degree in psychology!]
 
 ## 🛠 Tech Stack
-- 💻 **Languages**: [JavaScript, TypeScript, Python, etc.]
-- 🌐 **Frontend**: [React, Solid.js, HTML, CSS]
-- 🚀 **Backend**: [Node.js, Express, etc.]
-- 🛢 **Databases**: [MongoDB, MySQL, etc.]
-- 🔧 **Tools**: [Git, Docker, etc.]
+- 💻 **Languages**: [JavaScript, TypeScript]
+- 🌐 **Frontend**: [React, React Native, Solid.js, Next.js, HTML, CSS, Tailwind, Styled-Components]
+- 🚀 **Backend**: [Node.js, Express]
+- 🛢 **Databases**: [MongoDB, MySQL]
+- 🔧 **Tools**: [Git, Postman, Vercel, Npm / Yarn, VS Code]
 
 ## 🔥 My Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=romeonatchkebia&theme=dark)
