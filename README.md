@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on social-app, next.js blog app
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning C#
 - 💬 Ask me about JavaScript, TypeScript, Node, Express, React, React Native, Solid.js, MongoDB
 - 📫 How to reach me: romeonatchkebia@gmail.com
 - ⚡ Fun fact: I have a degree in psychology!
