@@ -13,9 +13,6 @@
 - 🛢 **Databases**: SQL, NoSQL
 - 🔧 **Tools**: AWS, S3, Amplify, Vercel, Git, Postman, Npm / Yarn
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=romeonatchkebia&show_icons=true&theme=dark)
-
 ## 📫 Connect with Me
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/romeo-natchkebia-13a69925b)
 
